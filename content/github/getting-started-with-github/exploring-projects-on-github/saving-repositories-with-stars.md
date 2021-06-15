@@ -34,7 +34,7 @@ Starring a repository is a simple two-step process.
 {% data reusables.repositories.navigate-to-repo %}
 1. In the top-right corner of the page, click **Star**.
 ![Starring a repository](/assets/images/help/stars/starring-a-repository.png)
-1. Optionally, to unstar a previously starred repository, click **Unstar**.
+1. Optionally, to unstar a previously starred repository, click **Unstar**. You will be removed from the list of stargazers.
 ![Untarring a repository](/assets/images/help/stars/unstarring-a-repository.png)
 
 ## Searching stars
